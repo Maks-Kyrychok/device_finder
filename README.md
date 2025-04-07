@@ -76,6 +76,15 @@ The project follows a clean architecture to separate concerns and enhance mainta
 
 - This file contains all the dependencies required by the project, such as `flutter_bloc`, `flutter_blue_plus`, and `permissions`. It also includes configurations for assets and other settings.
 
+
 ## Summary
 
 The project follows a modular and organized structure to separate concerns and enhance maintainability. It uses Flutter’s modern tools like `flutter_bloc` for state management and organizes the code into logical directories, making it easier to scale and maintain in the future.
+
+## Example
+
+
+https://github.com/user-attachments/assets/f1e80a42-dc98-4743-8969-0ec7a35d13a0
+
+
+
